@@ -7,6 +7,9 @@
 
 import UIKit
 
+/**
+ Class to handle guest number
+ */
 class GuestNumberDataModel {
     internal init(guestNumber: Int? = nil, isSelected: Bool = false) {
         self.guestNumber = guestNumber
