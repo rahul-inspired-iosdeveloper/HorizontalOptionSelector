@@ -8,7 +8,7 @@
 import UIKit
 
 /**
- Class to handle guest number
+ Class to handle guest number related information
  */
 class GuestNumberDataModel {
     internal init(guestNumber: Int? = nil, isSelected: Bool = false) {
